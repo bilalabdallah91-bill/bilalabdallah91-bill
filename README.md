@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there, I'm Bilal Abdallah 👋
+**Python Developer & Data Analyst**
 
-<!--
-**bilalabdallah91-bill/bilalabdallah91-bill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate developer with a strong focus on Python, data manipulation, and building practical automation tools. I turn raw data into clean, actionable insights and visual stories.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+* **Programming & Data:** Python, Pandas, Matplotlib, Data Cleaning, Automation, Web Scraping
+* **Tools & Environment:** Git, GitHub, VS Code
+* **Languages:** Arabic (Native), English, American Sign Language (ASL)
+
+---
+
+### 🚀 What I Bring to the Table
+* **Proven Track Record:** Over 25 completed and published Python projects on GitHub.
+* **Smart Problem Solver:** Focused on efficient, clean code that automates tasks and saves time.
+* **Remote-Ready:** Dedicated professional ready to help businesses and clients worldwide.
+
+---
+
+📫 **Let's Connect:**
+* [GitHub Repositories](https://github.com/bilalabdallah91-bill?tab=repositories)
+* Available for freelance projects and collaborations!
